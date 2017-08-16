@@ -9,22 +9,21 @@ Tooling - 15 minutes
 * Babel
 * Webpack
 
-Intro - 20 minutes
+Intro - 30 minutes
 * 10,000 overview of React
 * Component
 * State
 * Props
+* API - Lifecycle Methods (8 - including render)
 
 My First Component - 45 minutes
-
-Intro 2 - 15 minutes
-* API - Lifecycle Methods (8 - including render)
 
 Routing - 45 minutes
 
 Forms and validation - 1 hour
 
-Making HTTP Requests - 1 hour
+Making HTTP Requests with Axios - 1 hour
+https://github.com/mzabriskie/axios
 
 Advanced React
 * also introduce the presentation/container components pattern

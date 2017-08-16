@@ -5,7 +5,7 @@ Tooling - 15 minutes
 * Babel
 * Webpack
 
-Intro - 15 minutes
+Intro - 20 minutes
 * Component
 * State
 * Props
@@ -16,8 +16,11 @@ Intro 2 - 15 minutes
 * API - Lifecycle Methods (8 - including render)
 
 Routing - 45 minutes
-Forms and validation - 1 hour  
+
+Forms and validation - 1 hour
+
 Making HTTP Requests - 1 hour
+
 Advanced React
 * also introduce the presentation/container components pattern
 * Higher Order Components

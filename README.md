@@ -40,3 +40,4 @@ Writing tests for components - 45 minutes
 Extra Modules:
 * create-react-app
 * redux forms
+* type checking with proptypes

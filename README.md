@@ -6,6 +6,7 @@ Tooling - 15 minutes
 * Webpack
 
 Intro - 20 minutes
+* 10,000 overview of React
 * Component
 * State
 * Props

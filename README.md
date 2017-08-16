@@ -1,6 +1,10 @@
 # ReactReduxWorkshop
 Workshop materials for learning React/Redux
 
+Workshop Goal:
+
+???????????????
+
 Tooling - 15 minutes
 * Babel
 * Webpack
@@ -11,7 +15,7 @@ Intro - 20 minutes
 * State
 * Props
 
-My First Component with JSX - 45 minutes
+My First Component - 45 minutes
 
 Intro 2 - 15 minutes
 * API - Lifecycle Methods (8 - including render)

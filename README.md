@@ -18,11 +18,11 @@ Intro - 30 minutes
 
 My First Component - 45 minutes
 
+Making HTTP Requests with Axios - 30 minutes
+
 Routing with React Router - 30 minutes
 
 Forms and validation - 1 hour
-
-Making HTTP Requests with Axios - 30 minutes
 
 Advanced React - 1 hour
 * Introduce the presentation/container components pattern

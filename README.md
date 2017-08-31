@@ -15,6 +15,7 @@ Intro - 30 minutes
 * State
 * Props
 * API - Lifecycle Methods (8 - including render)
+* Introduce the presentation/container components pattern
 
 My First Component - 45 minutes
 
@@ -25,7 +26,7 @@ Routing with React Router - 30 minutes
 Forms and validation - 1 hour
 
 Advanced React - 1 hour
-* Introduce the presentation/container components pattern
+* Wrapping Components
 * Higher Order Components
 
 Intro to Redux - 1 hour
